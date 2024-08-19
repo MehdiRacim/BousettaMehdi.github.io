@@ -93,6 +93,38 @@ Développement d'un serveur de matchmaking pour un jeu multijoueur. Ce projet a 
 - Gestion des connexions client-serveur
 - Communication en temps réel
 
+## 11. Introduction à Linux Service Réseau
+Initiation aux services réseau sous Linux, incluant la configuration et la gestion des serveurs web, DNS, DHCP et autres services critiques. Ce projet a permis de mieux comprendre l'architecture réseau et l'administration des systèmes Linux.
+
+**Compétences Acquises :**
+- Administration de systèmes Linux
+- Configuration de services réseau
+- Sécurité des services
+
+## 12. SQL
+Apprentissage du langage SQL pour la gestion de bases de données relationnelles. Ce projet incluait la création de bases de données, l'exécution de requêtes complexes et l'optimisation des performances.
+
+**Compétences Acquises :**
+- Requêtes SQL
+- Conception et optimisation de bases de données
+- Gestion des transactions
+
+## 13. UX Design
+Introduction aux principes de design d'expérience utilisateur (UX). Ce projet a couvert la recherche utilisateur, la création de wireframes, et les tests de prototypes pour améliorer l'interaction et la satisfaction des utilisateurs.
+
+**Compétences Acquises :**
+- Recherche utilisateur
+- Conception de wireframes
+- Prototypage et tests utilisateurs
+
+## 14. Accessibilité
+Étude et mise en pratique des bonnes pratiques en matière d'accessibilité numérique. Ce projet a permis d'apprendre comment rendre les sites et applications accessibles à tous, y compris aux personnes en situation de handicap.
+
+**Compétences Acquises :**
+- Conception accessible
+- Standards d'accessibilité (WCAG)
+- Tests d'accessibilité
+
 
 
 
